@@ -123,5 +123,5 @@ Ao terminar, o script imprime no stderr:
 - **Inseridos (PG):** registros novos inseridos.
 - **Já existentes:** registros ignorados por conflito de id (idempotência).
 - **Falhas (lotes):** tokens de lotes que falharam após todos os retries.
-- **Lotes processados:** quantidade de lotes.
+- **Lotes processados:** quantidade de lotess.
 - **IDs com falha:** amostra dos ids que ficaram em lotes com falha (para rastreabilidade).
